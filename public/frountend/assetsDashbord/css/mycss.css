@@ -1,0 +1,32 @@
+#sh1{
+
+}
+#sh2{
+
+}
+.tit{
+    margin-left: 300px;
+    margin-top: -350px;
+
+}
+.tit2{
+    margin-left: -300px;
+    margin-top: -450px;
+   
+}
+.add{
+    margin-left: -150px;
+}
+.conn{
+    width: 650px;
+   margin-left:30%;
+}
+.mb-3{
+    margin: 30px;
+}
+.mybot{
+    margin-left: 42%;
+}
+.form-control{
+   background-color: rgba(146, 173, 255, 0.055);
+}
